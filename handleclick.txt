@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Button Click Events</title>
+</head>
+<body>
+<h2 id="result">Click a Button</h2>
+<button onclick="showMessage()">Button 1</button>
+<button onclick="changeColor()">Button 2</button>
+
+
